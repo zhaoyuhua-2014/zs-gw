@@ -1,0 +1,14 @@
+/* Main navgation */
+
+#main_nav_wrapper { position:absolute;width:620px;height:53px;top:33px;z-index:2;float:left; }
+
+	#main_nav_wrapper ul { display: inline; }
+
+		#main_nav_wrapper ul li { display: inline; height: 50px; float: left; margin-right: 50px; }
+
+			#main_nav_wrapper ul li a { line-height: 50px; color: #7e7e7e; font-size: 12px; }
+
+				#main_nav_wrapper ul li a:hover { border-bottom: 1px solid #7e7e7e; }
+
+				#main_nav_wrapper ul li a.main_active { color: white; border-bottom: 1px solid #c4c4c4; }
+
