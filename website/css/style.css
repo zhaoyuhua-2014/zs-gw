@@ -78,3 +78,5 @@ div.index_intro { display: inline; float: left; width: 330px; }
 #footer-bottom { width:1000px; margin:0 auto; padding-top:11px; }
 .footer-bottom-left { float:left; text-shadow: 1px 1px 1px #000; }
 .footer-bottom-right { float:right; text-shadow: 1px 1px 1px #000; }
+.footer-bottom-left  a{ color: #333; }
+.footer-bottom-left  a:link{color: #333333;}
